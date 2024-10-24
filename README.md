@@ -1,2 +1,2 @@
 # DataCheck
-JDBC technolog to connect MYSQL to forms
+JDBC technology to connect MYSQL to forms
